@@ -1,4 +1,9 @@
-# Eccomerce Website
+# Introduction
+Ecommerce Store is complete solution for Moving Your Offline Store/Shop into Online World.
+
+![Screenshot (994)](https://user-images.githubusercontent.com/82401421/153702043-9cea4573-57b3-48ee-b88c-4ad3e439d480.png)
+
+
 ## Description of Project
 This is an Ecommerce Website codded in Java technologies.
 
