@@ -12,17 +12,23 @@ This Project purpose will to save time and money.
 
 # Modules of Ecommerce Store
 
-Ecommerce Store has divided into Two Modules Interface. One is for Customer and Other one for Seller or Admin.
+Ecommerce Store has divided into Two Modules Interface. One is for Customer and Other one for Admin.
 Both Modules has Different Interface with own Customise Features. 
 Login Window is Provide for Switch to Different Interface with own Login Credentials
 
-**Login:
+## Login:
 
 After Registeration, Customer and Admin can Login into own Interface with Valid Credential Details. Otherwise, You need to Register First than back to the Login Process. 
 
 ![Screenshot (995)](https://user-images.githubusercontent.com/82401421/153718430-4316dcb9-67a5-49ab-9564-39bff263dd40.png)
 
+## User:
 
+The user is a customer, then he/she can only see the products availiable in Ecommerce Store and Add or Remove Product in Cart and Save or Delete or Update Product in Wishlist and view Cart Product and Wishlist Product. Customer can Order Product and View Order and Transaction.
+
+## Admin:
+
+Admin have permission to Add product and Category in Ecommerce Store and View Total Users in Ecommerce Store Right Now.
 
 
 ## Features of the Project
