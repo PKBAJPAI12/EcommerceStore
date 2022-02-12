@@ -1,11 +1,29 @@
 # Introduction
-Ecommerce Store is complete solution for Moving Your Offline Store/Shop into Online World.
+
+Ecommerce Store is complete solution of Shopping Web Application for make shopping easy from AnyWhere and AnyTimes. It has Includes all features of Ecommerce Store like Add Product Details and Category and Add Users and other Essential Services.
 
 ![Screenshot (994)](https://user-images.githubusercontent.com/82401421/153702043-9cea4573-57b3-48ee-b88c-4ad3e439d480.png)
 
 
-## Description of Project
-This is an Ecommerce Website codded in Java technologies.
+# Aim of Project
+
+Aim to Build this Project make shopping system easy due to online services provides on Ecommorce Store in Today Covid Schenario and Technological Era.
+This Project purpose will to save time and money.
+
+# Modules of Ecommerce Store
+
+Ecommerce Store has divided into Two Modules Interface. One is for Customer and Other one for Seller or Admin.
+Both Modules has Different Interface with own Customise Features. 
+Login Window is Provide for Switch to Different Interface with own Login Credentials
+
+**Login:
+
+After Registeration, Customer and Admin can Login into own Interface with Valid Credential Details. Otherwise, You need to Register First than back to the Login Process. 
+
+![Screenshot (995)](https://user-images.githubusercontent.com/82401421/153718430-4316dcb9-67a5-49ab-9564-39bff263dd40.png)
+
+
+
 
 ## Features of the Project
  ### User
