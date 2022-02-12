@@ -71,7 +71,8 @@ Admin View has some details like View Total Users and Products and Category. Add
 
 Enter Details like Product Name and Description, Price, Discount and Quantity of Product and Select Category and Save Image of Product.
 
-![Screenshot (998)](https://user-images.githubusercontent.com/82401421/153721303-b38b78ee-bd27-4ee7-92ac-ae17a4aa6d20.png)
+![Screenshot (999)](https://user-images.githubusercontent.com/82401421/153721606-84eaffec-480e-48e1-97a0-7a5913bec5f5.png)
+
 
 ### Add Prouct Category
 
@@ -82,6 +83,9 @@ Enter Details like Product Name and Description, Price, Discount and Quantity of
 Customer can View Products and Add or Remove Product in Cart and Save or Delete or Update Product in Wishlist and view Cart Product and Wishlist Product. Customer can Order Product and View Order and Transaction.
 
 ![Screenshot (994)](https://user-images.githubusercontent.com/82401421/153721486-2211b03b-5471-46e0-852b-9a75e17c2633.png)
+
+### Add Product in Cart
+
 
 
 
