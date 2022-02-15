@@ -98,7 +98,7 @@ Add to Cart Button Visible Below Product Image Click on Add to Cart Button then 
 
 ![Screenshot (1007)](https://user-images.githubusercontent.com/82401421/154109002-1d4c8937-b55c-41e6-bcb7-97bdf7c1386c.png)
 
-# View and Add Wallet Balance
+### View and Add Wallet Balance
 
 ![Screenshot (1008)](https://user-images.githubusercontent.com/82401421/154109250-69443296-4cf0-4d1d-bcf6-13663b168507.png)
 
