@@ -84,9 +84,23 @@ Customer can View Products and Add or Remove Product in Cart and Save or Delete 
 
 ![Screenshot (994)](https://user-images.githubusercontent.com/82401421/153721486-2211b03b-5471-46e0-852b-9a75e17c2633.png)
 
-### Add Product in Cart
+### Product in Cart
 
+Add to Cart Button Visible Below Product Image Click on Add to Cart Button then Product is Added in Cart then You can Remove Product from Cart or Checkout for Order.
 
+![Screenshot (1005)](https://user-images.githubusercontent.com/82401421/154108572-8aa1e5bf-cdbf-415f-a942-b2318352d817.png)
+
+### View Wishlist Product
+
+![Screenshot (1006)](https://user-images.githubusercontent.com/82401421/154108796-e74db286-9776-4fe1-992c-4b0928ca95d7.png)
+
+### View Order and Transaction
+
+![Screenshot (1007)](https://user-images.githubusercontent.com/82401421/154109002-1d4c8937-b55c-41e6-bcb7-97bdf7c1386c.png)
+
+# View and Add Wallet Balance
+
+![Screenshot (1008)](https://user-images.githubusercontent.com/82401421/154109250-69443296-4cf0-4d1d-bcf6-13663b168507.png)
 
 
 
